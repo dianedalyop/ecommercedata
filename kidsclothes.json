@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "name": "Baby Onesie",
+        "price": 19.99,
+        "size": "L",
+        "color": "Blue",
+        "imageUrl": "https://example.com/images/onesie.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Baby Hat",
+        "price": 9.99,
+        "size": "M",
+        "color": "Pink",
+        "imageUrl": "https://example.com/images/hat.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Baby Shoes",
+        "price": 24.99,
+        "size": "S",
+        "color": "White",
+        "imageUrl": "https://example.com/images/shoes.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Baby Sweater",
+        "price": 29.99,
+        "size": "XL",
+        "color": "Red",
+        "imageUrl": "https://example.com/images/sweater.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Baby Socks",
+        "price": 5.99,
+        "size": "S",
+        "color": "Yellow",
+        "imageUrl": "https://example.com/images/socks.jpg"
+    }
+]
